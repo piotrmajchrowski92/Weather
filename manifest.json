@@ -4,8 +4,8 @@
   "background_color": "#0c616a",
   "display": "fullscreen",
   "orientation": "portrait",
-  "scope": "/Weather/",
-  "start_url": "/",
+  "scope": "/",
+  "start_url": "/Weather/",
   "icons": [
     {
       "src": "./icon.png",
